@@ -1,5 +1,7 @@
 nama : alixa arivya tofer
+
 nim : 21343040
+
 
 Kesimpulan : Pertemuan minggu ini Java Class, materinya mengenai Pass By Value, Pass By Reference, EqualsTest, Elevator dan Pemanggilan Method Menggunakan Parameter.
 
